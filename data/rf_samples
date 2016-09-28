@@ -1,0 +1,14 @@
+finalmr: 0.118 treeNum: 100 samples: 1000 features: 80 cata: 3
+finalmr: 0.09575 treeNum: 100 samples: 2000 features: 80 cata: 3
+finalmr: 0.08925 treeNum: 100 samples: 3000 features: 80 cata: 3
+finalmr: 0.079 treeNum: 100 samples: 4000 features: 80 cata: 3
+finalmr: 0.07925 treeNum: 100 samples: 5000 features: 80 cata: 3
+finalmr: 0.073 treeNum: 100 samples: 6000 features: 80 cata: 3
+finalmr: 0.07175 treeNum: 100 samples: 7000 features: 80 cata: 3
+finalmr: 0.06325 treeNum: 100 samples: 8000 features: 80 cata: 3
+finalmr: 0.0665 treeNum: 100 samples: 9000 features: 80 cata: 3
+finalmr: 0.067 treeNum: 100 samples: 10000 features: 80 cata: 3
+finalmr: 0.067 treeNum: 500 samples: 30000 features: 80 cata: 3
+
+
+

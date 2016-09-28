@@ -1,0 +1,4 @@
+finalmr: 0.23275 treeNum: 20 samples: 4000 features: 27 cata: 3
+finalmr: 0.1445 treeNum: 100 samples: 4000 features: 27 cata: 3
+finalmr: 0.13575 treeNum: 500 samples: 4000 features: 27 cata:3
+
